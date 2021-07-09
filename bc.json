@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://amber-guppy-7dpssunv.ws-us03.gitpod.io",
+    "address": "https://coffee-clownfish-pt60i73p.ws-us08.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -28,7 +28,7 @@
     "description": "Step by step, go over all the most important DOM concepts and methods: Use javascript to manipulate styles, html elements.",
     "duration": 8,
     "difficulty": "easy",
-    "session": 8575383860399002000,
+    "session": 7842577198188381000,
     "exercises": [
         {
             "slug": "00-Welcome",
